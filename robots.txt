@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://r2d27829.github.io/Farm-Client/sitemap.xml
